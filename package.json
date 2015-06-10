@@ -7,6 +7,8 @@
   "private": true,
   "license": "ISC",
   "dependencies": {
+    "color": "^0.8.0",
+    "keypress": "^0.2.1",
     "underscore": "^1.8.3"
   },
   "repository": {
